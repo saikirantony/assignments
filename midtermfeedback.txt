@@ -1,0 +1,3 @@
+Your Dyspnea normalization routine is incorrect.
+The risk calculation was correct, but then you substracted it from 100.
+You did not correct combine BODE RISK, so all hospitals have a risk of 1.
